@@ -1,3 +1,5 @@
+#import <MapboxMobileEvents.h>
+
 
 
 void initialize(const char* accessToken, const char* userAgentBase, const char* hostSDKVersion) {
